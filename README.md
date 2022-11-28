@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saikishore-n
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack and ML
+- 👀 I’m interested in machine learning
 
 <!---
 saikishore-n/saikishore-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
